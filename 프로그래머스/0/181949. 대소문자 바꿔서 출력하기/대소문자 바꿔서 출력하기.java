@@ -6,8 +6,9 @@ public class Solution {
         String a = sc.next();
         String answer = "";
         
-        for(int i = 0; i < a.length(); i++){
-            char c = a.charAt(i);
+        char[] charArray = a.toCharArray(); 
+        
+        for(char c : charArray){
             if(Character.isUpperCase(c)){
                 answer += Character.toLowerCase(c);
             }else{
