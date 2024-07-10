@@ -1,2 +1,5 @@
-# Algorithm
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+### Algorithm02
+코딩 필수 역량 자격증 취득을 위하여 !
+
+🐳 매일 두 문제씩 풀겠습니다!
+🐳 SQL은 한 문제씩 풀겠습니다!
